@@ -596,7 +596,7 @@ ol {
 }
 
 .single-hero-item {
-	height: 1080px;
+	height: 100vh;
 	padding-top: 20px;
 	display: -webkit-box;
 	display: -ms-flexbox;
