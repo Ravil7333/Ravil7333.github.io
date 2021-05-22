@@ -3010,7 +3010,7 @@ ol {
 		right: 5px;
 	}
 	.single-hero-item {
-		height: 680px;
+		height: 100vh;
 	}
 	.single-hero-item .hero-text h1 {
 		font-size: 70px;
