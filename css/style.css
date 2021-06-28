@@ -27,9 +27,11 @@ h1 {
 h2 {
 	font-size: 36px;
 }
-
 h3 {
 	font-size: 30px;
+}
+.hero-items  {
+	height: 100vh;
 }
 
 h4 {
@@ -302,7 +304,7 @@ ol {
 -----------------------*/
 
 .header-section {
-	padding-top: 40px;
+	padding-top: 20px;
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -564,7 +566,7 @@ ol {
 }
 
 .single-hero-item {
-	height: 1080px;
+	height: 100vh;
 	padding-top: 20px;
 	display: -webkit-box;
 	display: -ms-flexbox;
@@ -2211,8 +2213,8 @@ ol {
 -----------------------*/
 
 .blog-single-hero {
-	height: 500px;
-	padding-top: 176px;
+	height: 100vh;
+	padding-top: 100px;
 }
 
 .bs-hero-text h2 {
