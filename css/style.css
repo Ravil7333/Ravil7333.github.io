@@ -1969,13 +1969,6 @@ ol {
 	position: relative;
 }
 
-.gallery-controls ul li.active {
-	color: #e4381C;
-}
-
-.gallery-controls ul li.active:after {
-	opacity: 1;
-}
 
 .gallery-controls ul li:after {
 	position: absolute;
@@ -1997,11 +1990,6 @@ ol {
 	position: relative;
 	z-index: 1;
 	margin-bottom: 30px;
-}
-
-.gallery-item:hover:after,
-.gallery-item:hover:before {
-	opacity: 1;
 }
 
 .gallery-item:hover .gi-hover {
