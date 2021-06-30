@@ -2986,10 +2986,10 @@ ol {
 		height: 680px;
 	}
 	.single-hero-item .hero-text h1 {
-		font-size: 70px;
+		font-size: 50px;
 	}
 	.single-hero-item .hero-text h2 {
-		font-size: 50px;
+		font-size: 35px;
 	}
 	.about-text {
 		margin-bottom: 30px;
@@ -3069,7 +3069,7 @@ ol {
 		font-size: 50px;
 	}
 	.single-hero-item .hero-text h2 {
-		font-size: 40px;
+		font-size: 35px;
 	}
 	.hero-items .owl-nav button[type=button] {
 		left: -15px;
