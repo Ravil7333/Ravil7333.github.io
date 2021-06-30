@@ -2981,7 +2981,8 @@ ol {
 	.hero-items .owl-nav button[type=button].owl-next {
 		left: auto;
 		right: 5px;
-	}
+		right: auto;
+			}
 	.single-hero-item {
 		height: 100vh;
 	}
@@ -3075,7 +3076,7 @@ ol {
 		left: -15px;
 	}
 	.hero-items .owl-nav button[type=button].owl-next {
-		right: 15px;
+		right: 50px;
 	}
 	.map-contact-detalis {
 		width: 319px;
