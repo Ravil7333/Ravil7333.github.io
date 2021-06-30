@@ -2983,13 +2983,13 @@ ol {
 		right: 5px;
 	}
 	.single-hero-item {
-		height: 680px;
+		height: 100vh;
 	}
 	.single-hero-item .hero-text h1 {
-		font-size: 50px;
+		font-size: 25px;
 	}
 	.single-hero-item .hero-text h2 {
-		font-size: 35px;
+		font-size: 25px;
 	}
 	.about-text {
 		margin-bottom: 30px;
@@ -3066,10 +3066,10 @@ ol {
 		padding: 18px 0 5px;
 	}
 	.single-hero-item .hero-text h1 {
-		font-size: 50px;
+		font-size: 25px;
 	}
 	.single-hero-item .hero-text h2 {
-		font-size: 35px;
+		font-size: 25px;
 	}
 	.hero-items .owl-nav button[type=button] {
 		left: -15px;
