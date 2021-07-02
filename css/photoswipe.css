@@ -175,3 +175,11 @@
 .pswp__error-msg a {
   color: #CCC;
   text-decoration: underline; }
+
+  @media only screen and (max-width: 479px) {
+
+   .pswp img {
+    width: 100vh;
+padding-left: 30px;
+   }
+  }
