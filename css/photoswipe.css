@@ -184,9 +184,10 @@
   text-align: center;
 }
 .pswp img {
-  width: 800px;
+  width: 900px;
   height: 650px;
   left: 25px;
+  text-align: center;
 }
   
   }
