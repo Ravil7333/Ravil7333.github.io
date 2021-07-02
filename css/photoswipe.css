@@ -24,7 +24,8 @@
             box-sizing: border-box; }
   .pswp img {
     max-width: none; 
-    }
+  margin-left: -100px;
+}
 
 /* style is added when JS option showHideOpacity is set to true */
 .pswp--animate_opacity {
