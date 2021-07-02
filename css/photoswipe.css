@@ -7,6 +7,7 @@
   display: none;
   position: absolute;
   width: 100%;
+
   height: 100%;
   left: 0;
   top: 0;
@@ -22,7 +23,8 @@
     -webkit-box-sizing: border-box;
             box-sizing: border-box; }
   .pswp img {
-    max-width: none; }
+    max-width: none; 
+    margin-left: -100px;}
 
 /* style is added when JS option showHideOpacity is set to true */
 .pswp--animate_opacity {
@@ -156,6 +158,7 @@
   width: 100%;
   height: auto;
   left: 0;
+
   top: 0; }
 
 /*
@@ -184,3 +187,7 @@
 }
   
   }
+ @media only screen and (max-height: 479px) {
+
+
+ } 
