@@ -188,10 +188,8 @@
   
   }
  @media only screen and (max-height: 479px) {
-  .pswp img {
-    text-align: center;
-    margin-right: 50px;
-    margin-left: 50px;
-  }
+ .pswp__scroll-wrap {
+  width: 95%;
+ }
 
  } 
