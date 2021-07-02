@@ -181,13 +181,13 @@
 
   @media only screen and (max-width: 479px) {
 .pswp__scroll-wrap {
-  width: 450px;
   text-align: center;
 }
 .pswp img {
-  width: 780px;
-  height: 580px;
-  margin-left: 15px;
+  width: 98vh;
+  height: 650px;
+  left: 25px;
+  right: 10px;
 }
   
   }
