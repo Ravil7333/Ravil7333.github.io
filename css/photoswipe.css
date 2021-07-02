@@ -191,6 +191,7 @@
  .pswp__scroll-wrap {
   width: 92%;
   height: 90%;
+  padding-top: 15px;
  }
 
  } 
