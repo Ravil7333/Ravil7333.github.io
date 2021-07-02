@@ -58,7 +58,8 @@
 	Background is added as a separate element.
 	As animating opacity is much faster than animating rgba() background-color.
 */
-.pswp__bg {
+/* Затемнение*/
+.pswp__bg {  
   position: absolute;
   left: 0;
   top: 0;
@@ -73,7 +74,7 @@
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 95%;
   height: 100%;
   -webkit-backface-visibility: hidden;
   will-change: transform; }
