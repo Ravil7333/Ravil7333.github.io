@@ -179,7 +179,6 @@
   @media only screen and (max-width: 479px) {
 
    .pswp img {
-    width: 100vh;
-padding-left: 30px;
+     padding-left: 30px;
    }
   }
